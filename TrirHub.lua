@@ -17,3 +17,8 @@ Section:NewButton("EzPets", "poggers", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TurfuGoldy/GoldenScripts/main/EzPets.lua"))()
 print("loaded EzPets B) ")
 end)
+
+Section:NewButton(" ShinyTool (GUI NOT JUST SHINIES) ", "poggers", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XLinestX/Shiny-Tool/main/ShinyTool.lua"))()
+print("loaded ShinyTool B) ")
+end)
