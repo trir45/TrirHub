@@ -22,3 +22,13 @@ Section:NewButton(" ShinyTool (GUI NOT JUST SHINIES) ", "poggers", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XLinestX/Shiny-Tool/main/ShinyTool.lua"))()
 print("loaded ShinyTool B) ")
 end)
+
+Section:NewButton(" X Exsploits", "poggers", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XExsploits/Script/main/PetSimX"))()
+print("loaded X Exsploits B) ")
+end)
+
+Section:NewButton(" X Exsploits", "poggers", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XExsploits/Script/main/PetSimX"))()
+print("loaded X Exsploits B) ")
+end)
