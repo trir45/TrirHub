@@ -28,13 +28,20 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/XExsploits/Script/mai
 print("loaded X Exsploits B) ")
 end)
 
-Section:NewButton(" X Exsploits", "poggers", function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XExsploits/Script/main/PetSimX"))()
-print("loaded X Exsploits B) ")
+Section:NewButton("System Exodus", "poggers", function()
+loadstring(game:HttpGet("https://system-exodus.com/scripts/PetSimulator/PetSimulatorX.lua", true))()
+print("loaded System Exodus B) ")
 end)
 
+Section:NewButton("System Exodus", "poggers", function()
+loadstring(game:HttpGet("https://system-exodus.com/scripts/PetSimulator/PetSimulatorX.lua", true))()
+print("loaded System Exodus B) ")
+end)
 
-
+Section:NewButton("System Exodus", "poggers", function()
+loadstring(game:HttpGet("https://system-exodus.com/scripts/PetSimulator/PetSimulatorX.lua", true))()
+print("loaded System Exodus B) ")
+end)
 
 
 
