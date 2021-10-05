@@ -32,9 +32,9 @@ loadstring(game:HttpGet("https://system-exodus.com/scripts/PetSimulator/PetSimul
 print("loaded System Exodus B) ")
 end)
 
-Section:NewButton("System Exodus", "poggers", function()
-loadstring(game:HttpGet("https://system-exodus.com/scripts/PetSimulator/PetSimulatorX.lua", true))()
-print("loaded System Exodus B) ")
+Section:NewButton("Void Hub", "poggers", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wind596/VoidHub/main/WiningDediy", true))()
+print("loaded Void Hub B) ")
 end)
 
 Section:NewButton("System Exodus", "poggers", function()
