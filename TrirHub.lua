@@ -11,13 +11,7 @@ Section:NewButton("PFN GUI", "poggers", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BY-PFN/Pet-Simulator-X-/main/Pet%20Simulator%20X%20ByPFN%20.lua", true))()
 print("loaded PFN GUI B) ")
 end)
-
-Section:NewButton("Autofarm", "poggers", function()
-getgenv().speed=2
-for i,v in pairs(getconnections(game.Players.LocalPlayer.Idled)) do v:Disable() end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/inceldom/scrip/main/petsimsex",true))()
-end)
-		
+	
 Section:NewButton("EzPets", "poggers", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TurfuGoldy/GoldenScripts/main/EzPets.lua"))()
 print("loaded EzPets B) ")
