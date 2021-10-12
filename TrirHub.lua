@@ -37,12 +37,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Wind596/VoidHub/main/
 print("loaded Void Hub B) ")
 end)
 
-Section:NewButton("System Exodus", "poggers", function()
-loadstring(game:HttpGet("https://system-exodus.com/scripts/PetSimulator/PetSimulatorX.lua", true))()
-print("loaded System Exodus B) ")
+Section:NewButton("Akuma Hub", "poggers", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SenseiJoshy/Akuma-Hub/main/Main/Akuma%20Hub.lua"))
+print("Akuma Hub B) ")
 end)
 
-
+Section:NewButton("EzPets", "poggers", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TurfuGoldy/GoldenScripts/main/EzPets.lua"))()
+print("loaded EzPets B) ")
+end)
 
 
 
